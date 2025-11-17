@@ -16,6 +16,7 @@
 <img width="1368" height="904" alt="Windows Server Snip" src="https://github.com/user-attachments/assets/9861db7c-a180-4f72-9cf5-2d87be8d5419" />
 </p>
 
+
 <br />
 <br />
 <h3>Step 2: Setting up host-only adapter. For lab purposes, I wanted create a private virtual network for communication exclusively between the host computer and VMs.</h3>
@@ -23,4 +24,15 @@
 
 <p align="center">
 <img width="934" height="521" alt="Network Setup" src="https://github.com/user-attachments/assets/dc971c47-c927-4bb9-a5e8-82cb8ff1a07d" />
+</p>
+
+
+<br />
+<br />
+<h3>To ensure reliable communication between the client PC and the domain controller, I configured a static IP address on the PC.</h3>
+<br />
+
+<p align="center">
+<img width="818" height="631" alt="Static IP" src="https://github.com/user-attachments/assets/6c794820-aeda-4bb7-85e9-e87d720a18c6" />
+<img width="880" height="648" alt="Details" src="https://github.com/user-attachments/assets/97479950-2af1-4d58-9df1-bcdd547daa95" />
 </p>
