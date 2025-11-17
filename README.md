@@ -22,5 +22,5 @@
 <br />
 
 <p align="center">
-<img width="984" height="731" alt="Network Seup Server2022" src="https://github.com/user-attachments/assets/9f3cdd9e-b33b-493a-958b-4a2a68e93677" />
+<img width="934" height="521" alt="Network Setup" src="https://github.com/user-attachments/assets/dc971c47-c927-4bb9-a5e8-82cb8ff1a07d" />
 </p>
