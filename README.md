@@ -12,10 +12,9 @@
 <h3>Step 1: Download Windows Server 2022 ISO file from Microsoft.</h3>
 <br />
 
-<p align="center>
-<img width="1159" height="642" alt="Server2022 Download" src="https://github.com/user-attachments/assets/139cf08d-c62e-4d20-acf9-92fc9bc4a02d" />
+<p align="center">
+<img width="1368" height="904" alt="Windows Server Snip" src="https://github.com/user-attachments/assets/9861db7c-a180-4f72-9cf5-2d87be8d5419" />
 </p>
-
 
 <br />
 <br />
