@@ -34,5 +34,5 @@
 
 <p align="center">
 <img width="818" height="631" alt="Static IP" src="https://github.com/user-attachments/assets/6c794820-aeda-4bb7-85e9-e87d720a18c6" />
-<img width="880" height="648" alt="Details" src="https://github.com/user-attachments/assets/97479950-2af1-4d58-9df1-bcdd547daa95" />
+<img width="825" height="628" alt="image" src="https://github.com/user-attachments/assets/260c022d-0566-4003-8f1d-f67207a0fd34" />
 </p>
