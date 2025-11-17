@@ -36,3 +36,14 @@
 <img width="818" height="631" alt="Static IP" src="https://github.com/user-attachments/assets/6c794820-aeda-4bb7-85e9-e87d720a18c6" />
 <img width="825" height="628" alt="image" src="https://github.com/user-attachments/assets/260c022d-0566-4003-8f1d-f67207a0fd34" />
 </p>
+
+
+
+<br />
+<br />
+<h3>Step 3: Adding features for AD Domain Services, DHCP, and Remote Access</h3>
+<br />
+
+<p align="center">
+<img width="825" height="628" alt="DHCP, Remote Access, AD Domain Services" src="https://github.com/user-attachments/assets/ca4e9ab0-928f-4da2-b5e7-4fc993efbaa8" />
+</p>
