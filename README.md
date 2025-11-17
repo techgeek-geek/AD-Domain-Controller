@@ -45,5 +45,5 @@
 <br />
 
 <p align="center">
-<img width="825" height="628" alt="DHCP, Remote Access, AD Domain Services" src="https://github.com/user-attachments/assets/ca4e9ab0-928f-4da2-b5e7-4fc993efbaa8" />
+<img width="712" height="380" alt="DHCP, Remote Access, AD Domain Services" src="https://github.com/user-attachments/assets/c40bc85b-bd46-40e5-9af0-df567fa50bb1" />
 </p>
