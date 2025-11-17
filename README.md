@@ -13,8 +13,8 @@
 <br />
 
 <p align="center>
-<img width="1368" height="904" alt="Windows Server Snip" src="https://github.com/user-attachments/assets/7f245d00-3c85-41d4-9aab-30b09f2c5837" />
-</p>
+<img width="1368" height="904" alt="Windows Server Snip" src="https://github.com/user-attachments/assets/87d00845-6f82-4b0b-8d4e-18db679c70c4" />
+</p> 
 
 
 <br />
