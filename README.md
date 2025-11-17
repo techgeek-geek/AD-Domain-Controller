@@ -47,3 +47,11 @@
 <p align="center">
 <img width="712" height="380" alt="DHCP, Remote Access, AD Domain Services" src="https://github.com/user-attachments/assets/c40bc85b-bd46-40e5-9af0-df567fa50bb1" />
 </p>
+
+
+
+
+<br />
+<br />
+<h3>Step 4: Deploying this server as a domain controller "cybergeek.com"</h3>
+<br />
