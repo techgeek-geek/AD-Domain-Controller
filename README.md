@@ -5,7 +5,7 @@
 
 
 <h2>Description</h2>
-<b> In this lab I download and configure a Windows Server 2022 instance in VirtualBox. I deploy the server as a domain controller and configure services such as NAT, and DHCP. I create a user, set the user as an admin account and connect to the DC.
+<b> In this lab I download and configure a Windows Server 2022 instance in VirtualBox. I create a user, set the user as an admin account and connect to the DC.
 </b>
 <br />
 <br />
